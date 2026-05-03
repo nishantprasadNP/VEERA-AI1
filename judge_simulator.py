@@ -36,7 +36,7 @@ LLM_MODEL = ""  # <-- Optional: specify model or leave empty for default
 OLLAMA_URL = "http://localhost:11434"
 
 # Which test to run by default
-TEST_SCENARIO = "all"  # Options: "warmup", "phase2_short", "auto_reply_hell", "intent_transition", "hostile", "all", "full_evaluation"
+TEST_SCENARIO = "full_evaluation"
 
 # =============================================================================
 # ██████  END OF CONFIGURATION - DON'T EDIT BELOW THIS LINE ██████
